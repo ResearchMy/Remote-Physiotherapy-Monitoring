@@ -21,8 +21,8 @@ https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphone
 
 ## Repository Contents
 
-- `banurp1.py` – Python implementation
-- `BanuRP1.ipynb` – Jupyter Notebook implementation
+- har_physiotherapy_monitoring.py – Python implementation
+- HAR_Physiotherapy_Monitoring.ipynb – Jupyter Notebook implementation
 
 ## Installation
 
