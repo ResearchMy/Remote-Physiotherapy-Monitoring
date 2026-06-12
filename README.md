@@ -32,4 +32,4 @@ pip install -r requirements.txt
 
 ## Note
 
-This study is based on a benchmark HAR dataset. The proposed deviation detection and severity scoring mechanisms are computational indicators and have not yet been clinically validated using physiotherapy-specific datasets or patient populations.
+This repository contains a simulation-based Human Activity Recognition (HAR) framework for activity recognition, confidence-based movement deviation assessment, and severity scoring using a public benchmark dataset. Clinical validation remains future work.
